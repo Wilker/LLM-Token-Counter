@@ -17,3 +17,6 @@ Navigate to [http://localhost:5173](http://localhost:5173) and drop any text fil
 npm run build
 npm run preview
 ```
+
+## Access Online Here
+https://wilker.github.io/LLM-Token-Counter/
